@@ -14,4 +14,9 @@
 
 ### How to install:
 ```diff
+Download Kafusz-Raider.zip
+Extract file
+Run the install.bat file
+
+Done, have fun!
 ```

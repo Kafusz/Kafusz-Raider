@@ -20,3 +20,10 @@ Run the install.bat file
 
 Done, have fun!
 ```
+### Instruction:
+##### After installing the program, when you want to start the program, you run the start.bat file
+##### When enter a bot token, make sure your bot has these intents enabled: Message Content Intent, Server Members Intent, Presence Intent (If not, enable it on the Discord Developer Portal)
+
+### Bot commands:
+##### !nuke (Deletes all channels and creates new ones and writing messages on them)
+##### !spamroles [name] (Creates a lot of new roles, In place of name, enter the name with which the roles should be created)

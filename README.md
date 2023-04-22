@@ -13,7 +13,7 @@
 > Don't download Kafusz Raider from unknown sites because they may contain a virus
 
 ### How to install:
-```diff --color A
+```
 Download Kafusz-Raider.zip
 Extract file
 Run the install.bat file
